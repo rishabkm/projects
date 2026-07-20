@@ -1,1 +1,1 @@
-simple web server made with help of AI using proper human brain by learning each and every thing one by one.
+ALL of my c++ project i made using my brain and AI
